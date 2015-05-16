@@ -5,7 +5,7 @@ tern-cordovajs
 
 ## Demo
 
-You can see demo http://codemirror-java.opensagres.eu.cloudbees.net/codemirror-javascript/demo/cordovajs.html
+You can play with the [online demo](http://demo-angelozerr.rhcloud.com/CodeMirror-Java/cordovajs.html)
 
 ## Structure
 
